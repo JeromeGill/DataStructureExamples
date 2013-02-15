@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		02A15D7D16CEA6900085FE41 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02A15D7C16CEA6900085FE41 /* main.cpp */; };
 		02A15D7F16CEA6900085FE41 /* DataStructures.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 02A15D7E16CEA6900085FE41 /* DataStructures.1 */; };
+		02A15D8716CEA6B70085FE41 /* StackArrayExample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02A15D8516CEA6B70085FE41 /* StackArrayExample.cpp */; };
+		02A15D8A16CEAA9F0085FE41 /* QueueArrayExample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02A15D8816CEAA9F0085FE41 /* QueueArrayExample.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +30,10 @@
 		02A15D7916CEA6900085FE41 /* DataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		02A15D7C16CEA6900085FE41 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		02A15D7E16CEA6900085FE41 /* DataStructures.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = DataStructures.1; sourceTree = "<group>"; };
+		02A15D8516CEA6B70085FE41 /* StackArrayExample.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StackArrayExample.cpp; sourceTree = "<group>"; };
+		02A15D8616CEA6B70085FE41 /* StackArrayExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StackArrayExample.h; sourceTree = "<group>"; };
+		02A15D8816CEAA9F0085FE41 /* QueueArrayExample.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = QueueArrayExample.cpp; sourceTree = "<group>"; };
+		02A15D8916CEAA9F0085FE41 /* QueueArrayExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QueueArrayExample.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +67,11 @@
 			isa = PBXGroup;
 			children = (
 				02A15D7C16CEA6900085FE41 /* main.cpp */,
+				02A15D8516CEA6B70085FE41 /* StackArrayExample.cpp */,
+				02A15D8616CEA6B70085FE41 /* StackArrayExample.h */,
 				02A15D7E16CEA6900085FE41 /* DataStructures.1 */,
+				02A15D8816CEAA9F0085FE41 /* QueueArrayExample.cpp */,
+				02A15D8916CEAA9F0085FE41 /* QueueArrayExample.h */,
 			);
 			path = DataStructures;
 			sourceTree = "<group>";
@@ -118,6 +128,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				02A15D7D16CEA6900085FE41 /* main.cpp in Sources */,
+				02A15D8716CEA6B70085FE41 /* StackArrayExample.cpp in Sources */,
+				02A15D8A16CEAA9F0085FE41 /* QueueArrayExample.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
