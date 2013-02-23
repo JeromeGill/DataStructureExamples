@@ -2,10 +2,11 @@ TDataStructures
 v5
 r1
 cCheck dependencies
-cCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackArrayExample.o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/DataStructures normal x86_64
+cCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackArrayExample.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackLinkedList.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/LinkedListExample.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/LinkedListExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
 c00000000503F1B7700000000000000AA
@@ -34,9 +35,9 @@ t2
 s0
 
 N/Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp
-c00000000511E74BF0000000000000352
-t1360950463
-s850
+c00000000511E74F4000000000000039F
+t1360950516
+s927
 
 N/Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.h
 c00000000511E7403000000000000024F
@@ -54,10 +55,77 @@ t1360949682
 s532
 
 N/Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp
-c00000000511E740600000000000001D3
-t1360950278
-s467
+c0000000051235F65000000000000024C
+t1361272677
+s588
 i<iostream>
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/DataStructures.LinkFileList
+c000000005128AD4600000000000003B6
+t1361620294
+s950
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/LinkedListExample.o
+t2
+s0
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o
+t1361272680
+s7260
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackArrayExample.o
+t1360950292
+s6180
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackLinkedList.o
+t2
+s0
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o
+t1361273380
+s67944
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/DataStructures
+t1361296322
+s19412
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/LinkedListExample.cpp
+c000000005128A8BE0000000000000489
+t1361619134
+s1161
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp
+c000000005128AD2500000000000003BE
+t1361620261
+s958
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp
+c00000000511E74F4000000000000039F
+t1360950516
+s927
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.h
+c00000000511E7403000000000000024F
+t1360950275
+s591
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp
+c00000000511E74130000000000000306
+t1360950291
+s774
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.h
+c00000000511E71B20000000000000214
+t1360949682
+s532
+
+N/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp
+c00000000512362240000000000000248
+t1361273380
+s584
+i<iostream>
+i"StackArrayExample.h"
+i"QueueArrayExample.h"
 
 CBuild AST from /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp
 r0
@@ -68,9 +136,37 @@ r0
 CBuild AST from /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp
 r0
 
+CBuild AST from /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/LinkedListExample.cpp
+r0
+
+CBuild AST from /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp
+r0
+
+CBuild AST from /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp
+r0
+
+CBuild AST from /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp
+r0
+
+CBuild AST from /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp
+r0
+
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfa479f3facceb641^be32a73facceb641^---0#1#0#--18"Check dependencies36"14DABB77-82E2-4316-BC79-65C7C204992F-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd2c4bfc6e4d8b641^e3c2d1c6e4d8b641^---0#1#0#--18"Check dependencies36"F11804FF-0EDD-4172-888A-872E2D44C6C4-
+
+CCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/LinkedListExample.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/LinkedListExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s383313094.830773
+e383313096.810921
+r1
+xCompileC
+xBuild/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/LinkedListExample.o
+x/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/LinkedListExample.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection197"Compile /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/LinkedListExample.cpp2d22d6c6e4d8b641^5797cfc8e4d8b641^---0#0#0#-19%DVTDocumentLocation2@205"file://localhost/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/LinkedListExample.cpp0000000000000000^3853"CompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/LinkedListExample.o DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/LinkedListExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/Learning/DataStructures    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-generated-files.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-project-headers.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources/x86_64 -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources -F/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/LinkedListExample.d --serialize-diagnostics /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/LinkedListExample.dia -c /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/LinkedListExample.cpp -o /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/LinkedListExample.o36"B673D8AD-7653-486F-9375-54B41F1E6A88-
 
 CCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s382643263.655808
@@ -85,6 +181,19 @@ xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cppdbfca73facceb641^40dfb240acceb641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp0000000000000000^3671"CompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o DataStructures/QueueArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jerome/Documents/Work/Software/Learning/DataStructures    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-generated-files.hmap -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-own-target-headers.hmap -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-all-target-headers.hmap -iquote /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-project-headers.hmap -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources/x86_64 -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources -F/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -MMD -MT dependencies -MF /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.d --serialize-diagnostics /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.dia -c /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp -o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o36"9CBBCBEE-8261-4681-9B65-DA829E4141F1-
 
+CCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s382965478.603198
+e382965480.735427
+r1
+xCompileC
+xBuild/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o
+x/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp2d07a6e696d3b641^d942bce896d3b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp0000000000000000^3671"CompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o DataStructures/QueueArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/Learning/DataStructures    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-generated-files.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-project-headers.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources/x86_64 -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources -F/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.d --serialize-diagnostics /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.dia -c /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp -o /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/QueueArrayExample.o36"E70AC7DA-6CA4-4759-AF2C-70DE366E016B-
+
 CCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackArrayExample.o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s382643091.382663
 e382643092.060398
@@ -97,6 +206,26 @@ xx86_64
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp30d66393abceb641^08770f94abceb641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp0000000000000000^3671"CompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackArrayExample.o DataStructures/StackArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jerome/Documents/Work/Software/Learning/DataStructures    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-generated-files.hmap -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-own-target-headers.hmap -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-all-target-headers.hmap -iquote /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-project-headers.hmap -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources/x86_64 -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources -F/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -MMD -MT dependencies -MF /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackArrayExample.d --serialize-diagnostics /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackArrayExample.dia -c /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp -o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackArrayExample.o36"71EF7C2D-D810-40E5-B665-79AAA95D8041-
+
+CCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackArrayExample.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackLinkedList.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s383313094.830751
+e383313096.305349
+r0
+xCompileC
+xBuild/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackLinkedList.o
+x/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp:38:5: error: unknown type name 'NODE'
+o    NODE* temp = back;
+o    ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection195"Compile /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp8525d6c6e4d8b641^cc284ec8e4d8b641^-274"/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp:38:5: error: unknown type name 'NODE'    NODE* temp = back;    ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"Unknown type name 'NODE'-383313096#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@112"file://localhost/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp0000000000000000^37#4#37#4#603#0#11"Parse Issue--0#0#0#-19%DVTDocumentLocation4@203"file://localhost/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp0000000000000000^3841"CompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackLinkedList.o DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/Learning/DataStructures    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-generated-files.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-project-headers.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources/x86_64 -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources -F/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackLinkedList.d --serialize-diagnostics /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackLinkedList.dia -c /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/../../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackLinkedList.cpp -o /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/StackLinkedList.o36"AF32001E-DEDB-4AA3-A58D-C8C38EBA0B45-
 
 CCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s382643078.719513
@@ -115,6 +244,19 @@ o           ^
 o1 warning generated.
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp0e4eb886abceb641^d07e4487abceb641^-218"/Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp:15:12: warning: unused variable 'myStack' [-Wunused-variable]    Stack *myStack = new Stack(10);           ^1 warning generated.-0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp0000000000000000^3593"CompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o DataStructures/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jerome/Documents/Work/Software/Learning/DataStructures    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-generated-files.hmap -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-own-target-headers.hmap -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-all-target-headers.hmap -iquote /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-project-headers.hmap -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources/x86_64 -I/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources -F/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -MMD -MT dependencies -MF /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.dia -c /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp -o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o36"578391C3-1569-4D53-A35C-A7E5F7D0780C-
 
+CCompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s382966180.195677
+e382966180.734963
+r1
+xCompileC
+xBuild/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o
+x/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cppa43532a499d3b641^0326bca499d3b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp0000000000000000^3593"CompileC Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o DataStructures/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/Learning/DataStructures    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-generated-files.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DataStructures-project-headers.hmap -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources/x86_64 -I/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/DerivedSources -F/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.dia -c /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/main.cpp -o /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/main.o36"6D217934-781F-4BCE-9478-232DFB82BBA5-
+
 CLd /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/DataStructures normal x86_64
 s382643264.705568
 e382643266.551579
@@ -124,4 +266,14 @@ x/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructu
 xnormal
 xx86_64
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/DataStructuresd8b6b440acceb641^37348d42acceb641^---0#0#0#--991"Ld Build/DataStructures/Build/Products/Debug/DataStructures normal x86_64    cd /Users/Jerome/Documents/Work/Software/Learning/DataStructures    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -F/Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -filelist /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/DataStructures.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/DataStructures36"FDF4DE94-4376-4B60-A65D-73991B47A3BD-
+
+CLd /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/DataStructures normal x86_64
+s382966180.741832
+e382966180.874608
+r1
+xLd
+x/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/DataStructures
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/DataStructures66fabda499d3b641^fbe5dfa499d3b641^---0#0#0#--991"Ld Build/DataStructures/Build/Products/Debug/DataStructures normal x86_64    cd /Users/jerome/Documents/Work/Software/Learning/DataStructures    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -F/Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug -filelist /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Intermediates/DataStructures.build/Debug/DataStructures.build/Objects-normal/x86_64/DataStructures.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/jerome/Documents/Work/Software/Learning/DataStructures/Build/DataStructures/Build/Products/Debug/DataStructures36"2A198832-F998-4D60-A41A-85C69DED00B2-
 

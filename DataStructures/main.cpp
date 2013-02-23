@@ -12,15 +12,23 @@
 
 int main()
 {
-    Stack *myStack = new Stack(10);
+
+    int* pointer;
     
-    Queue *queue = new Queue(8);
-    queue->enqueue(10);
-    queue->enqueue(20);
-    queue->enqueue(30);
-    for(int i=0; i<3; i++)
-    {
-        std::cout << queue->dequeue() << std::endl;
-    }
+    pointer = nullptr;
+    
+    std::cout<<pointer<<"\n";
+
+    return 0;
+//    Stack *myStack = new Stack(10);
+//    
+//    Queue *queue = new Queue(8);
+//    queue->enqueue(10);
+//    queue->enqueue(20);
+//    queue->enqueue(30);
+//    for(int i=0; i<3; i++)
+//    {
+//        std::cout << queue->dequeue() << std::endl;
+//    }
 }
 

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp \
-  /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.h
+  /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.cpp \
+  /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/QueueArrayExample.h
