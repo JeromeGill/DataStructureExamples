@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp \
-  /Users/Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.h
+  /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.cpp \
+  /Users/jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/StackArrayExample.h

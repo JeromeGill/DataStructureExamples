@@ -24,13 +24,16 @@ int StackLinkedList::pop()
     {
         return -1;
     }
+    
     int retVal = back->data;
     NODE_D* temp = back;
+    
     if(back->previous == NULL)
     {
         back = NULL;
         front = NULL;
     }
+    
     else
     {
         back = back->previous;

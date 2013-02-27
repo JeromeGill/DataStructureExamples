@@ -14,6 +14,8 @@
 		02A15D7F16CEA6900085FE41 /* DataStructures.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 02A15D7E16CEA6900085FE41 /* DataStructures.1 */; };
 		02A15D8716CEA6B70085FE41 /* StackArrayExample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02A15D8516CEA6B70085FE41 /* StackArrayExample.cpp */; };
 		02A15D8A16CEAA9F0085FE41 /* QueueArrayExample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02A15D8816CEAA9F0085FE41 /* QueueArrayExample.cpp */; };
+		02ECBBBB16DEB8A500925D48 /* ExtendedLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02ECBBB916DEB8A500925D48 /* ExtendedLinkedList.cpp */; };
+		02ECBBBF16DEBA0E00925D48 /* BinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02ECBBBD16DEBA0E00925D48 /* BinaryTree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +45,10 @@
 		02A15D8616CEA6B70085FE41 /* StackArrayExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StackArrayExample.h; path = DataStructures/StackArrayExample.h; sourceTree = SOURCE_ROOT; };
 		02A15D8816CEAA9F0085FE41 /* QueueArrayExample.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = QueueArrayExample.cpp; path = DataStructures/QueueArrayExample.cpp; sourceTree = SOURCE_ROOT; };
 		02A15D8916CEAA9F0085FE41 /* QueueArrayExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = QueueArrayExample.h; path = DataStructures/QueueArrayExample.h; sourceTree = SOURCE_ROOT; };
+		02ECBBB916DEB8A500925D48 /* ExtendedLinkedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ExtendedLinkedList.cpp; path = ../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/ExtendedLinkedList.cpp; sourceTree = SOURCE_ROOT; };
+		02ECBBBA16DEB8A500925D48 /* ExtendedLinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ExtendedLinkedList.h; path = ../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/ExtendedLinkedList.h; sourceTree = SOURCE_ROOT; };
+		02ECBBBD16DEBA0E00925D48 /* BinaryTree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BinaryTree.cpp; path = ../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/BinaryTree.cpp; sourceTree = SOURCE_ROOT; };
+		02ECBBBE16DEBA0E00925D48 /* BinaryTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BinaryTree.h; path = ../../../../../../Jerome/Documents/Work/Software/Learning/DataStructures/DataStructures/BinaryTree.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +71,8 @@
 				02A15D8916CEAA9F0085FE41 /* QueueArrayExample.h */,
 			);
 			name = Arrays;
-			sourceTree = "<group>";
+			path = DataStructures;
+			sourceTree = SOURCE_ROOT;
 		};
 		020B0BB916D8E32A00AF5975 /* LinkedList */ = {
 			isa = PBXGroup;
@@ -76,6 +83,8 @@
 				020B0BBB16D8E39400AF5975 /* StackLinkedList.h */,
 				020B0BBD16D8E70800AF5975 /* QueueLinkedList.cpp */,
 				020B0BBE16D8E70800AF5975 /* QueueLinkedList.h */,
+				02ECBBB916DEB8A500925D48 /* ExtendedLinkedList.cpp */,
+				02ECBBBA16DEB8A500925D48 /* ExtendedLinkedList.h */,
 			);
 			name = LinkedList;
 			sourceTree = "<group>";
@@ -99,12 +108,22 @@
 		02A15D7B16CEA6900085FE41 /* DataStructures */ = {
 			isa = PBXGroup;
 			children = (
+				02ECBBBC16DEB9C500925D48 /* Binary Tree */,
 				020B0BB916D8E32A00AF5975 /* LinkedList */,
 				020B0BB816D8E31300AF5975 /* Arrays */,
 				02A15D7C16CEA6900085FE41 /* main.cpp */,
 				02A15D7E16CEA6900085FE41 /* DataStructures.1 */,
 			);
 			path = DataStructures;
+			sourceTree = "<group>";
+		};
+		02ECBBBC16DEB9C500925D48 /* Binary Tree */ = {
+			isa = PBXGroup;
+			children = (
+				02ECBBBD16DEBA0E00925D48 /* BinaryTree.cpp */,
+				02ECBBBE16DEBA0E00925D48 /* BinaryTree.h */,
+			);
+			name = "Binary Tree";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +183,8 @@
 				020B0BB716D8D82D00AF5975 /* LinkedListExample.cpp in Sources */,
 				020B0BBC16D8E39400AF5975 /* StackLinkedList.cpp in Sources */,
 				020B0BBF16D8E70800AF5975 /* QueueLinkedList.cpp in Sources */,
+				02ECBBBB16DEB8A500925D48 /* ExtendedLinkedList.cpp in Sources */,
+				02ECBBBF16DEBA0E00925D48 /* BinaryTree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

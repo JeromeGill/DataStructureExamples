@@ -26,8 +26,10 @@ int QueueLinkedList::dequeue()
     {
         return -1;
     }
+    
     int retVal = front->data;
     NODE_D* temp = front;
+    
     if(front->next == NULL)
     {
         back = NULL;

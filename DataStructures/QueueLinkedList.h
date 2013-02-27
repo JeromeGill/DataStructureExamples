@@ -10,7 +10,7 @@
 #define __DataStructures__QueueLinkedList__
 
 #include <iostream>
-#include "LinkedListExample.h"
+#include "ExtendedLinkedList.h"
 class QueueLinkedList : public LinkedList
 {
 public:

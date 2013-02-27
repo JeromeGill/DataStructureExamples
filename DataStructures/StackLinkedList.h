@@ -10,7 +10,7 @@
 #define __DataStructures__StackLinkedList__
 
 #include <iostream>
-#include "LinkedListExample.h"
+#include "ExtendedLinkedList.h"
 
 
 class StackLinkedList : public LinkedList
