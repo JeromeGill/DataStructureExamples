@@ -8,7 +8,6 @@
 
 #include "QueueLinkedList.h"
 
-#include "QueueLinkedList.h"
 QueueLinkedList::QueueLinkedList()
 {
 }
@@ -28,7 +27,7 @@ int QueueLinkedList::dequeue()
     }
     
     int retVal = front->data;
-    NODE_D* temp = front;
+    NODE* temp = front;
     
     if(front->next == NULL)
     {

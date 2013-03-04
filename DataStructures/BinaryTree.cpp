@@ -9,8 +9,8 @@
 #include "BinaryTree.h"
 
 // BinarySearchTree.cpp
-#include <iostream.h>
-#include "BinarySearchTree.h"
+//#include <iostream>
+
 BinarySearchTree::BinarySearchTree()
 {
     root = NULL;
@@ -59,7 +59,7 @@ bool BinarySearchTree::remove(char* key)
 {
     return removeNode(&root, key);
 }
-function
+
 bool BinarySearchTree::removeNode(METADATA** node, char* key)
 {
     if(*node != NULL)
@@ -136,8 +136,8 @@ void BinarySearchTree::removeAllNodes(METADATA* node)
     {
         removeAllNodes(node->left);
         removeAllNodes(node->right);
-        cout << "Removing node - key: " << node->key << "\t" << node->value
-        << endl;
+        std::cout << "Removing node - key: " << node->key << "\t" << node->value
+        << std::endl;
         delete node;
     }
 }
@@ -204,7 +204,7 @@ void BinarySearchTree::processNodesInOrder(METADATA* node)
     if(node != NULL)
     {
         processNodesInOrder(node->left);
-        cout << "key: " << node->key << "\tvalue: " << node->value << endl;
+        std::cout << "key: " << node->key << "\tvalue: " << node->value << std::endl;
         processNodesInOrder(node->right);
     }
 }

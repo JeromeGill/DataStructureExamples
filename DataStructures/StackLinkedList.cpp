@@ -26,7 +26,7 @@ int StackLinkedList::pop()
     }
     
     int retVal = back->data;
-    NODE_D* temp = back;
+    NODE* temp = back;
     
     if(back->previous == NULL)
     {

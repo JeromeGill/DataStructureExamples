@@ -24,6 +24,7 @@ typedef struct Node{
     struct Node* previous;
     struct Node* next;
 } NODE;
+
 class LinkedList
 {
 protected:

@@ -9,12 +9,12 @@
 #include <iostream>
 #include "StackArrayExample.h"
 #include "QueueArrayExample.h"
-#include "LinkedListExample.h"
+//#include "LinkedListExample.h"
 
 int main()
 {
 
-    LinkedList list;
+//    LinkedList list;
     int* pointer;
     
     pointer = nullptr;
