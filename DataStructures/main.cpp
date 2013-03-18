@@ -9,17 +9,17 @@
 #include <iostream>
 #include "StackArrayExample.h"
 #include "QueueArrayExample.h"
-//#include "LinkedListExample.h"
+#include "TemplateLinkedList.h"
 
 int main()
 {
 
-//    LinkedList list;
-    int* pointer;
+    TemplateLinkedList<float> list;
+    list.appendNode(10.5);
+    list.appendNode(14.2);
     
-    pointer = nullptr;
-    
-    std::cout<<pointer<<"\n";
+    list.displayNodes();
+    //std::cout<<<<"\n";
 
     return 0;
 }
